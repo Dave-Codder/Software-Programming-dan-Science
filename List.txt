@@ -1,0 +1,15 @@
+1. Dev C++ --> https://sourceforge.net/projects/orwelldevcpp/
+
+2. MatLab --> https://matlab.mathworks.com/
+
+3. Visual Studio Code --> https://code.visualstudio.com/
+
+4, Sublime Text --> https://www.sublimetext.com/
+
+5. XAMPP --> https://www.apachefriends.org/download.html
+
+6. Cisco Packet Tracer --> https://sourceforge.net/software/product/Cisco-Packet-Tracer/
+
+7. Pycharm --> https://www.jetbrains.com/pycharm/
+
+8. Android Studio --> https://developer.android.com/studio?gclid=Cj0KCQjwgNanBhDUARIsAAeIcAsSHcAGSqSmRtOIseqbGmJS95ahUC8v-cW-h1Bm-uVYktxpGd55N44aAgFUEALw_wcB&gclsrc=aw.ds
